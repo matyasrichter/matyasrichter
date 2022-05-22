@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)![Git](https://img.shields.io/badge/Git-f05032?logo=Git&logoColor=white&style=for-the-badge)![Linux](https://img.shields.io/badge/Linux-fcc624?logo=Linux&logoColor=black&style=for-the-badge)
 
-I’m a backend dev working mostly with **Python** with a passion for solid architecture, new technologies, patterns and paradigms.
+I’m a backend dev working mostly with **Python**.
 
 - :man_student: I study at [FIT CTU in Prague](https://fit.cvut.cz/)
 - :computer: I work at [Endevel](https://endevel.cz/)
