@@ -6,4 +6,4 @@ I’m a backend dev working mostly with **Python**.
 
 - :man_student: I study at [FIT CTU in Prague](https://fit.cvut.cz/)
 - :computer: I work at [Endevel](https://endevel.cz/)
-- :writing_hand: Get in touch on [LinkedIn](https://www.linkedin.com/in/matyasrichter/) or send me an [email](mailto:mail@mrichter.cz)
+- :writing_hand: Get in touch on [LinkedIn](https://www.linkedin.com/in/matyasrichter/) or send me an [email](mailto:matyas@mrichter.cz)
